@@ -40,7 +40,7 @@ npm install @material/banner
 ### HTML
 
 ```html
-  <div class="mdc-banner>
+  <div class="mdc-banner">
       <div class="mdc-banner__content">
         <svg class="mdc-banner__icon">
           ...
